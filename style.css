@@ -2,10 +2,23 @@ main{
  
     color: #1b2c8791;
     background-color: rgba(0, 0, 0, 0.252);
-  
+    font-style: italic;
 }
 
 main:hover{
     color: red;
     background-color: yellow;
+}
+button,a{
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    color: blueviolet;
+    background-color: black;
+}
+button:hover{
+    color: black;
+    background-color: aqua;
+
 }
