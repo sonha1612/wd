@@ -1,0 +1,11 @@
+main{
+ 
+    color: #1b2c8791;
+    background-color: rgba(0, 0, 0, 0.252);
+  
+}
+
+main:hover{
+    color: red;
+    background-color: yellow;
+}
